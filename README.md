@@ -1,3 +1,3 @@
 # desafiojs
 
-##algoritmo utilizando un ciclo
+*algoritmo utilizando un ciclo*
